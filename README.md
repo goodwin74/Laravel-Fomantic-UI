@@ -1,3 +1,4 @@
-# test
+# Как установить Fomantic-ui в Laravel 8
 
-HI!
+npm install fomantic-ui@nightly
+and install by npx gulp build inside the fomantic-ui folder
